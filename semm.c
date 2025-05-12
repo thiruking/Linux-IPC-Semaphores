@@ -1,4 +1,3 @@
-// C program that implements a producer-consumer system with two processes using Semaphores// .
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <unistd.h>     
